@@ -1,0 +1,1 @@
+Practica Fundamentos de programacion UAH GIC realizada en pascal, el funcionamiento es la simulacion del juego de cartas burro.
